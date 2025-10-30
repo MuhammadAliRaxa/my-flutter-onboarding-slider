@@ -1,6 +1,8 @@
 name: my_flutter_onboarding_slider
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: A page slider with parallex design that allows (Text) widgets or body to slide at a different speed with background.
+homepage: https://github.com/MuhammadAliRaxa/my-flutter-onboarding-slider
+repository: https://github.com/MuhammadAliRaxa/my-flutter-onboarding-slider
+version: 1.0.1
 # repository: https://github.com/my_org/my_repo
 
 environment:
